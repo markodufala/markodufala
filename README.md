@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: marko.dufala@studentstc.sk
 - ⚡ Fun fact: The Firefox logo isn't a fox
--
