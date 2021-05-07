@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The Firefox logo isn't a fox
 -->
+
+
+
+- 👋 Hi, I’m Marko.
+- 👀 I’m interested in technologies.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me: marko.dufala@studentstc.sk
