@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m Marko.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me: marko.dufala@studentstc.sk
+- 📫 How to reach me: marko.dufala@stcmicrosoft.sk
 - ⚡ Fun fact: The Firefox logo isn't a fox
